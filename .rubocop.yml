@@ -31,6 +31,10 @@ Lint/AmbiguousBlockAssociation:
 Style/Documentation:
   Enabled: false
 
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+
 
 # The following cops were added to RuboCop, but are not configured. Please set Enabled to either `true` or `false` in your `.rubocop.yml` file:
 #  - Style/HashEachMethods (0.80)
